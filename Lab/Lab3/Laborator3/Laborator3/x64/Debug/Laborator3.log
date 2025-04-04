@@ -1,0 +1,19 @@
+﻿  Colectie.cpp
+C:\Users\Maria\Desktop\Ubb\2 Structuri de date şi algoritmi\Lab\Lab3\Laborator3\Colectie.h(1,13): warning C4081: expected 'newline'; found ';'
+  (compiling source file 'Colectie.cpp')
+  
+  IteratorColectie.cpp
+C:\Users\Maria\Desktop\Ubb\2 Structuri de date şi algoritmi\Lab\Lab3\Laborator3\Colectie.h(1,13): warning C4081: expected 'newline'; found ';'
+  (compiling source file 'IteratorColectie.cpp')
+  
+  Laborator3.cpp
+  TestExtins.cpp
+C:\Users\Maria\Desktop\Ubb\2 Structuri de date şi algoritmi\Lab\Lab3\Laborator3\Colectie.h(1,13): warning C4081: expected 'newline'; found ';'
+  (compiling source file 'TestExtins.cpp')
+  
+  TestScurt.cpp
+C:\Users\Maria\Desktop\Ubb\2 Structuri de date şi algoritmi\Lab\Lab3\Laborator3\Colectie.h(1,13): warning C4081: expected 'newline'; found ';'
+  (compiling source file 'TestScurt.cpp')
+  
+  Generating Code...
+  Laborator3.vcxproj -> C:\Users\Maria\Desktop\Ubb\2 Structuri de date şi algoritmi\Lab\Lab3\Laborator3\x64\Debug\Laborator3.exe
