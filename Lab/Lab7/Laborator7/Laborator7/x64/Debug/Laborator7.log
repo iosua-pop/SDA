@@ -1,0 +1,8 @@
+﻿  IteratorMDO.cpp
+  MDO.cpp
+  TestExtins.cpp
+C:\Users\Maria\Desktop\Ubb\2 Structuri de date şi algoritmi\Lab\Lab7\Laborator7\TestExtins.cpp(120,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Maria\Desktop\Ubb\2 Structuri de date şi algoritmi\Lab\Lab7\Laborator7\TestExtins.cpp(138,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  TestScurt.cpp
+  Generating Code...
+  Laborator7.vcxproj -> C:\Users\Maria\Desktop\Ubb\2 Structuri de date şi algoritmi\Lab\Lab7\Laborator7\x64\Debug\Laborator7.exe
