@@ -1,0 +1,9 @@
+﻿  IteratorMultime.cpp
+  Laborator1.cpp
+  Multime.cpp
+C:\Users\Maria\Desktop\Ubb\2 Structuri de date şi algoritmi\Lab\Lab1\Laborator1\Multime.cpp(116,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Maria\Desktop\Ubb\2 Structuri de date şi algoritmi\Lab\Lab1\Laborator1\Multime.cpp(116,30): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  TestExtins.cpp
+  TestScurt.cpp
+  Generating Code...
+  Laborator1.vcxproj -> C:\Users\Maria\Desktop\Ubb\2 Structuri de date şi algoritmi\Lab\Lab1\Laborator1\x64\Debug\Laborator1.exe
